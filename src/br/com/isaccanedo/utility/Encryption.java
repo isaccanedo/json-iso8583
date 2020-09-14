@@ -13,7 +13,7 @@ import javax.crypto.spec.SecretKeySpec;
  * CryptoTool is class to encrypt and decrypt data.
  *
  */
-public class Tecban 
+public class Encryption 
 {
 	/**
 	 * Encryptor
@@ -27,7 +27,7 @@ public class Tecban
      * Constructor with key as String
      * @param key Key
      */
-    public Tecban(String key) 
+    public Encryption(String key) 
     {
     	 this.init(key);
     }
@@ -35,7 +35,7 @@ public class Tecban
      * Constructor with key as SecretKey
      * @param key String key to encrypt or decrypt data
      */
-    public Tecban(SecretKey key) 
+    public Encryption(SecretKey key) 
     {
     	this.init(key);
     }
