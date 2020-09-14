@@ -1,4 +1,4 @@
-package br.com.tecban.test;
+package br.com.isaccanedo.test;
 
 import java.io.IOException;
 
@@ -6,7 +6,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import br.com.tecban.translator.MessageTranslator;
+import br.com.isaccanedo.translator.MessageTranslator;
 
 public class Test {
 	public static void main(String[] args) throws IOException {

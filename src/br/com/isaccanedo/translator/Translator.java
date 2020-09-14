@@ -1,4 +1,4 @@
-package br.com.tecban.translator;
+package br.com.isaccanedo.translator;
 
 import java.io.File;
 import java.io.StringReader;
@@ -24,7 +24,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.XML;
 
-import br.com.tecbam.utility.Utility;
+import br.com.isaccanedo.utility.Utility;
 
 import java.io.*;
 import java.net.*;

@@ -1,4 +1,4 @@
-package br.com.tecban.translator;
+package br.com.isaccanedo.translator;
 
 import java.util.Arrays;
 

@@ -1,8 +1,8 @@
-package br.com.tecban.translator;
+package br.com.isaccanedo.translator;
 
 import java.lang.reflect.Field;
 
-import br.com.tecbam.utility.Utility;
+import br.com.isaccanedo.utility.Utility;
 
 /**
  * ISO8583Field is field of ISO8583

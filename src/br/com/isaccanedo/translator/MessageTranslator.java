@@ -1,4 +1,4 @@
-package br.com.tecban.translator;
+package br.com.isaccanedo.translator;
 
 import java.util.Iterator;
 import java.util.Set;
@@ -9,7 +9,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import br.com.tecbam.utility.Utility;
+import br.com.isaccanedo.utility.Utility;
 
 /**
  * MessageTranslator - ISO - JSON - XML 
